@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cegredev
+- 👀 I’m interested in climbing, gaming, and of course programming.
+- 🌱 I’m currently learning web developement.
+- 💞️ I’m looking to collaborate on my most recent project, [Josi](https://github.com/cegredev/josi)! It's just a simple library designed to make working with operating systems in Java easier.
+- 📫 You can reach me by opening an issue on one of my projects, I guess o.O
