@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @cegredev
-- 👀 I’m interested in open source and learning new technologies.
-- 🌱 I’m currently learning web developement.
-- 💞️ I’m looking to collaborate on my most recent project, [Josi](https://github.com/cegredev/josi)! It's a simple library designed to make working with different operating systems in Java easier.
-- 📫 You can reach me by opening an issue on one of my projects, I guess o.O
+Currently a student at TU Dortmund, but started programming a few years ahead of that.
+
+I love many open source projects but haven't gotten around to contributing to any of them... maybe someday!
